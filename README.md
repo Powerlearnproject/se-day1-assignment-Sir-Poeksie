@@ -35,13 +35,7 @@ Software engineering is the structured and systematic application of engineering
 7. **Maintenance & Support** – Ongoing updates, performance improvements, and bug fixes.
 
 ### 4. Waterfall vs. Agile Methodologies
-| Feature | Waterfall | Agile |
-|---------|----------|-------|
-| **Approach** | Sequential, linear process | Iterative, flexible process |
-| **Client Involvement** | Minimal after initial planning | Continuous feedback and involvement |
-| **Changes & Adaptability** | Difficult and costly to modify | Adaptable, changes can be implemented easily |
-| **Testing Phase** | Done at the end | Ongoing throughout development |
-| **Best for** | Large projects with fixed requirements (e.g., banking or healthcare systems) | Dynamic projects requiring continuous iteration (e.g., mobile apps, startups) |
+  - **Waterfall Methodologies** are characterised as being a linear process which tends to be rigid due to it being used for large projects with well defined requirements, including having minimal client involvement/input. This also affects costs and may prove costly on the latter inputs. Testing of software is normally done at the end. <br/>
 
 ### 5. Roles and Responsibilities in a Software Engineering Team
 - **Software Developer** – Writes and maintains code, collaborates on design and implementation, and ensures functionality.
